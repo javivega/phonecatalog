@@ -5,7 +5,7 @@ angular.
 		controller: ['$http', function PhonelistController ($http){
 			
 				var self = this;
-				self.orderProp = 'price'
+				self.orderProp = 'age'
 			
 			
 				$http.get('phones/phones.json').then(function(response){

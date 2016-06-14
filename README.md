@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularJS Phone Catalog Tutorial Application
 
 
@@ -267,3 +268,7 @@ For more information on AngularJS, please check out https://angularjs.org/.
 [karma]: https://karma-runner.github.io
 [node-download]: https://nodejs.org/en/download/
 [protractor]: http://www.protractortest.org/
+=======
+# phonecatalog
+PhoneCatalog Tutorial
+>>>>>>> 97193067475df36580e2cd325a7ab670fe92326e
